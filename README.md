@@ -15,11 +15,13 @@ Allows users to enter a URL in a text field and select a single image for use in
 **Note**: This field may not support repetition, repeatable fields/groups is untested
 
 ### Usage ###
-`$cmb->add_field( array(
+```php
+$cmb->add_field( array(
  	'name'    => __( 'Select an Image', 'textdomain' ),
  	'id'      => 'images',
  	'type'    => 'remote_image_select',
- ) );`
+ ) );
+ ```
 
 ## Installation ##
 
