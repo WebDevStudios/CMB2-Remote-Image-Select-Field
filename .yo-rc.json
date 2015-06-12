@@ -1,0 +1,17 @@
+{
+  "generator-plugin-wp": {
+    "name": "CMB2 Remote Image Select",
+    "homepage": "http://webdevstudios.com",
+    "description": "A radical new plugin for WordPress!",
+    "version": "0.1.0",
+    "author": "WebDevStudios",
+    "authoremail": "contact@webdevstudios.com",
+    "authorurl": "http://webdevstudios.com",
+    "license": "GPLv2",
+    "slug": "cmb2-remote-img-sel",
+    "classname": "CMB2_Remote_Image_Select",
+    "classprefix": "CMB2RIS_",
+    "prefix": "cmb2_remote_img_sel",
+    "year": 2015
+  }
+}

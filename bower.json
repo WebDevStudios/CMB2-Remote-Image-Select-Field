@@ -1,0 +1,18 @@
+{
+  "name": "cmb2-remote-img-sel",
+  "description": "A radical new plugin for WordPress!",
+  "license": "GPLv2",
+  "authors": [
+    "WebDevStudios"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
