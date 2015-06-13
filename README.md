@@ -1,6 +1,6 @@
 # CMB2 Remote Image Select #
 **Version:** 0.1.0   
-**Contributors:** [George Mamadashvili](https://profiles.wordpress.org/Mamaduka/), [Jay Wood](https://profiles.wordpress.org/phyrax/)
+**Contributors:** [George Mamadashvili](https://profiles.wordpress.org/Mamaduka/), [Jay Wood](https://profiles.wordpress.org/phyrax/)   
 **Author:** [WebDevStudios](http://webdevstudios.com)   
 **Author URI:** http://webdevstudios.com/   
 **Requires at least:** 3.6.0   
