@@ -1,9 +1,10 @@
 # CMB2 Remote Image Select #
-**Contributors:**      WebDevStudios   
-**Donate link:**       http://webdevstudios.com   
-**Tags:**   
+**Version:** 0.1.0   
+**Contributors:** [George Mamadashvili](https://profiles.wordpress.org/Mamaduka/), [Jay Wood](https://profiles.wordpress.org/phyrax/)
+**Author:** [WebDevStudios](http://webdevstudios.com)   
+**Author URI:** http://webdevstudios.com/   
 **Requires at least:** 3.6.0   
-**Tested up to:**      3.6.0   
+**Tested up to:**      4.2.2   
 **Stable tag:**        0.1.0   
 **License:**           GPLv2   
 **License URI:**       http://www.gnu.org/licenses/gpl-2.0.html   
